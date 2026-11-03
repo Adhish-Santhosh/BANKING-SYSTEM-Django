@@ -1,0 +1,29 @@
+# API for Account Details
+
+###
+
+GET http://127.0.0.1:8000/account/
+
+# API for Customer Details
+
+###
+
+GET http://127.0.0.1:8000/customer/
+
+# API for Loan Details
+
+###
+
+GET http://127.0.0.1:8000/loan/
+
+# API for Branch Details
+
+###
+
+GET http://127.0.0.1:8000/branch/
+
+# API for Transaction Details
+
+###
+
+GET http://127.0.0.1:8000/transaction/
